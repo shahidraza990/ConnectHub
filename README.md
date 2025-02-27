@@ -28,3 +28,8 @@ To get started with ConnectHub, follow these steps:
 - Node.js (v14 or higher)
 - npm (v6 or higher)
 
+### Backend
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shahidraza990/ConnectHub
+
