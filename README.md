@@ -32,4 +32,16 @@ To get started with ConnectHub, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/shahidraza990/ConnectHub
+2. Navigate to the backend directory:
+    cd ConnectHub/backend
+3. Install dependencies:
+     npm install
+4.  Set up environment variables in a .env file:
+      DB_CONNECTION=<your_database_connection_string>
+JWT_SECRET=<your_jwt_secret_key>
+5. Start the backend server:
+     npm start
+
+
+
 
